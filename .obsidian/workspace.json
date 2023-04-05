@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "626cfea7d25e8cb6",
+        "id": "2a4ea522ce92d2fa",
         "type": "tabs",
         "children": [
           {
-            "id": "bae1420f66bbc831",
+            "id": "5cbd75800cb66929",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8b97b00dc3fbeaf2",
@@ -148,15 +149,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bae1420f66bbc831",
+  "active": "5cbd75800cb66929",
   "lastOpenFiles": [
+    "06 Deadlocks.md",
+    "07 Memory Management.md",
+    "00 Introduction to Operating Systems.md",
+    "04 Scheduling.md",
     "Excalidraw/Drawing 2023-04-05 11.05.18.excalidraw.md",
     "Excalidraw",
-    "00 Introduction to Operating Systems.md",
     "05 Inter-Process Communication.md",
     "02 Types of Operating Systems.md",
     "03 Processes and Threads.md",
-    "04 Scheduling.md",
     "01 System Calls and Hardware.md",
     "assets/webserver-threads.png",
     "assets/two-layer-process.png",
