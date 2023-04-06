@@ -62,3 +62,11 @@ A **real-time system**, is a system which has a set workload, and a deadline to 
 If missing the deadline is bad, we call it a **soft real-time system**. For instance, a video codec needs to decode video and figure out to display within a set time (e.g., 30ms). If the codec misses the deadline, the video gets laggy.
 
 If missing the deadline is catastrophic, we call it a **hard real-time system**. Examples of hard real-time systems include: Autopilot, Nuclear Power plant control, Health care devices. 
+
+# History of the Operating System
+1. Before the days of computers, the vast majority of computation (mathematical calculations) were done by *human calculators*, which were often female manual laborers. 
+2. However, during World War II, a need to break encryption which required large amounts of complex calculations led to the development of the first mechanical computers.
+3. Then, as the war ended, electronic (digital) computers were developed. These early primitive computers were *single-purpose computation machines* which were not programmable.
+4. After the war, the military took charge in developing electronic computers in national research labs. There, many academics saw the potential of computers in research, and built computers which could be programmed (by manipulating physical wires).
+5. By the 1950s, the **Von Neumann architecture** was proposed and computers which could execute code and manipulate data were developed. Computers could now be programmed using machine language.
+8. Then, as hardware became faster, programs were developed to encode a programming language into machine code. Later, **high-level programming languages** were developed.
